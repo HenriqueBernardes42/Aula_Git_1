@@ -3,3 +3,5 @@ Este
 um
 novo
 arquivo
+sendo
+alterado
